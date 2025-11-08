@@ -35,8 +35,7 @@ See the [Releases](https://github.com/AlekDob/quack-releases/releases) page for 
 
 ## 🔗 Links
 
-- **Source Code** (Private): [quack-app](https://github.com/AlekDob/quack-app)
-- **Landing Page**: Coming soon!
+- **Websitee**: (https://quack.build)
 
 ---
 
