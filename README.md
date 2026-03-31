@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/quack-hero.jpeg" alt="Quack — Multi-Agentic Desktop App" width="680">
+<img src="images/quack-app-hero.jpg" alt="Quack — Multi-Agentic Desktop App" width="780">
 
 <br>
 
